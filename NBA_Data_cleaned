@@ -1,0 +1,1027 @@
+,Year,Player,Pos,HT,WT,Team,Selection Type,NBA Draft Status,Nationality,All_Star,Year Of NBA Draft Status
+0,2016.0,Stephen Curry,G,190.5,190.0,Golden State Warriors,  Fan Vote Selection,Rnd 1 Pick 7,United States,Fan Vote,2009
+1,2016.0,James Harden,SG,195.5,220.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,2009
+2,2016.0,Kevin Durant,SF,205.74,240.0,Golden State Warriors,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,2007
+3,2016.0,Kawhi Leonard,F,200.66,230.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 15,United States,Fan Vote,2011
+4,2016.0,Anthony Davis,PF,210.82,253.0,New Orleans Pelicans,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2012
+5,2016.0,Russell Westbrook,G,190.5,200.0,Oklahoma City Thunder,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2008
+6,2016.0,DeMarcus Cousins,C,210.82,270.0,Sacramento Kings,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,2010
+7,2016.0,Klay Thompson,G,200.66,215.0,Golden State Warriors,  Coaches Selection,Rnd 1 Pick 11,United States,oaches Selection,2011
+8,2016.0,Draymond Green,F,200.66,230.0,Golden State Warriors,  Coaches Selection,Rnd 2 Pick 5,United States,oaches Selection,2012
+9,2016.0,Marc Gasol,C,215.9,255.0,Memphis Grizzlies,  Coaches Selection,Rnd 2 Pick 18,Spain,oaches Selection,2007
+10,2016.0,DeAndre Jordan,C,210.82,265.0,Los Angeles Clippers,  Coaches Selection,Rnd 2 Pick 5,United States,oaches Selection,2008
+11,2016.0,Gordon Hayward,GF,203.2,226.0,Utah Jazz,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,2010
+12,2016.0,Kyrie Irving,G,190.5,193.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,"United States
+Australia",Fan Vote,2011
+13,2016.0,DeMar DeRozan,GF,200.66,220.0,Toronto Raptors,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,2009
+14,2016.0,LeBron James,F,203.2,250.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+15,2016.0,Giannis Antetokounmpo,F,210.82,222.0,Milwaukee Bucks,  Fan Vote Selection,Rnd 1 Pick 15,"Greece
+Nigeria",Fan Vote,2013
+16,2016.0,Jimmy Butler,GF,200.66,231.0,Chicago Bulls,  Fan Vote Selection,Rnd 1 Pick 30,United States,Fan Vote,2011
+17,2016.0,Isaiah Thomas,PG,175.26,185.0,Boston Celtics,  Coaches Selection,Rnd 2 Pick 30,United States,oaches Selection,2011
+18,2016.0,John Wall,PG,193.04,210.0,Washington Wizards,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,2010
+19,2016.0,Kevin Love,FC,208.28,251.0,Cleveland Cavaliers,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,2008
+20,2016.0,Kyle Lowry,PG,182.88,205.0,Toronto Raptors,  Coaches Selection,Rnd 1 Pick 24,United States,oaches Selection,2006
+21,2016.0,Paul George,GF,205.74,220.0,Indiana Pacers,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2010
+22,2016.0,Kemba Walker,G,185.42,184.0,Charlotte Hornets,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,2011
+23,2016.0,Paul Millsap,FC,203.2,246.0,Atlanta Hawks,  Coaches Selection,Rnd 2 Pick 17,United States,oaches Selection,2006
+24,2015.0,LeBron James,F,203.2,250.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+25,2015.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+26,2015.0,Paul George,GF,205.74,220.0,Indiana Pacers,  Fan Vote Selection,Rnd 1 Pick 10,United States,Fan Vote,2010
+27,2015.0,Carmelo Anthony,F,203.2,240.0,New York Knicks,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,2003
+28,2015.0,Kyle Lowry,PG,182.88,205.0,Toronto Raptors,  Fan Vote Selection,Rnd 1 Pick 24,United States,Fan Vote,2006
+29,2015.0,Jimmy Butler,GF,200.66,231.0,Chicago Bulls,  Coaches Selection,Rnd 1 Pick 30,United States,oaches Selection,2011
+30,2015.0,DeMar DeRozan,GF,200.66,220.0,Toronto Raptors,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,2009
+31,2015.0,Paul Millsap,FC,203.2,246.0,Atlanta Hawks,  Coaches Selection,Rnd 2 Pick 17,United States,oaches Selection,2006
+32,2015.0,Andre Drummond,C,210.82,279.0,Detroit Pistons,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,2012
+33,2015.0,Chris Bosh,PF,210.82,235.0,Miami Heat,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+34,2015.0,John Wall,PG,193.04,210.0,Washington Wizards,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,2010
+35,2015.0,Isaiah Thomas,PG,175.26,185.0,Boston Celtics,  Coaches Selection,Rnd 2 Pick 30,United States,oaches Selection,2011
+36,2015.0,Pau Gasol,FC,213.36,250.0,Chicago Bulls,  Replacement Selection,Rnd 1 Pick 3,Spain,Replacement Selection,2001
+37,2015.0,Al Horford,FC,208.28,245.0,Atlanta Hawks,  Replacement Selection,Rnd 1 Pick 3,"Dominican Republic
+United States",Replacement Selection,2007
+38,2015.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+39,2015.0,Kevin Durant,SF,205.74,240.0,Oklahoma City Thunder,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,2007
+40,2015.0,Kawhi Leonard,F,200.66,230.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 15,United States,Fan Vote,2011
+41,2015.0,Stephen Curry,G,190.5,190.0,Golden State Warriors,  Fan Vote Selection,Rnd 1 Pick 7,United States,Fan Vote,2009
+42,2015.0,Russell Westbrook,G,190.5,200.0,Oklahoma City Thunder,  Fan Vote Selection,Rnd 1 Pick 4,United States,Fan Vote,2008
+43,2015.0,Draymond Green,F,200.66,230.0,Golden State Warriors,  Coaches Selection,Rnd 2 Pick 5,United States,oaches Selection,2012
+44,2015.0,James Harden,SG,195.5,220.0,Houston Rockets,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,2009
+45,2015.0,Chris Paul,PG,182.88,175.0,Los Angeles Clippers,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2005
+46,2015.0,Klay Thompson,G,200.66,215.0,Golden State Warriors,  Coaches Selection,Rnd 1 Pick 11,United States,oaches Selection,2011
+47,2015.0,Anthony Davis,PF,210.82,253.0,New Orleans Pelicans,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,2012
+48,2015.0,DeMarcus Cousins,C,210.82,270.0,Sacramento Kings,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,2010
+49,2015.0,LaMarcus Aldridge,FC,210.82,240.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,2006
+50,2014.0,LeBron James,F,203.2,250.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+51,2014.0,John Wall,PG,193.04,210.0,Washington Wizards,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2010
+52,2014.0,Kyle Lowry,PG,182.88,205.0,Toronto Raptors,  Fan Vote Selection,Rnd 1 Pick 24,United States,Fan Vote,2006
+53,2014.0,Pau Gasol,FC,213.36,250.0,Chicago Bulls,  Fan Vote Selection,Rnd 1 Pick 3,Spain,Fan Vote,2001
+54,2014.0,Carmelo Anthony,F,203.2,240.0,New York Knicks,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,2003
+55,2014.0,Al Horford,FC,208.28,245.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 3,"Dominican Republic
+United States",oaches Selection,2007
+56,2014.0,Jeff Teague,PG,187.96,186.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 19,United States,oaches Selection,2009
+57,2014.0,Paul Millsap,FC,203.2,246.0,Atlanta Hawks,  Coaches Selection,Rnd 2 Pick 17,United States,oaches Selection,2006
+58,2014.0,Jimmy Butler,GF,200.66,231.0,Chicago Bulls,  Coaches Selection,Rnd 1 Pick 30,United States,oaches Selection,2011
+59,2014.0,Kyrie Irving,G,190.5,193.0,Cleveland Cavaliers,  Coaches Selection,Rnd 1 Pick 1,"United States
+Australia",oaches Selection,2011
+60,2014.0,Chris Bosh,PF,210.82,235.0,Miami Heat,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+61,2014.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,2003
+62,2014.0,Kyle Korver,SF,200.66,212.0,Atlanta Hawks,  Replacement Selection,Rnd 2 Pick 22,United States,Replacement Selection,2003
+63,2014.0,Stephen Curry,G,190.5,190.0,Golden State Warriors,  Fan Vote Selection,Rnd 1 Pick 7,United States,Fan Vote,2009
+64,2014.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+65,2014.0,Anthony Davis,PF,210.82,253.0,New Orleans Pelicans,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2012
+66,2014.0,Marc Gasol,C,215.9,255.0,Memphis Grizzlies,  Fan Vote Selection,Rnd 2 Pick 18,Spain,Fan Vote,2007
+67,2014.0,Blake Griffin,PF,208.28,251.0,Los Angeles Clippers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2009
+68,2014.0,James Harden,SG,195.5,220.0,Houston Rockets,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,2009
+69,2014.0,Klay Thompson,G,200.66,215.0,Golden State Warriors,  Coaches Selection,Rnd 1 Pick 11,United States,oaches Selection,2011
+70,2014.0,LaMarcus Aldridge,FC,210.82,240.0,Portland Trail Blazers,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,2006
+71,2014.0,Russell Westbrook,G,190.5,200.0,Oklahoma City Thunder,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2008
+72,2014.0,Kevin Durant,SF,205.74,240.0,Oklahoma City Thunder,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,2007
+73,2014.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1997
+74,2014.0,Chris Paul,PG,182.88,175.0,Los Angeles Clippers,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2005
+75,2014.0,DeMarcus Cousins,C,210.82,270.0,Sacramento Kings,  Replacement Selection,Rnd 1 Pick 5,United States,Replacement Selection,2010
+76,2014.0,Damian Lillard,G,190.5,195.0,Portland Trail Blazers,  Replacement Selection,Rnd 1 Pick 6,United States,Replacement Selection,2012
+77,2014.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Replacement Selection,Rnd 1 Pick 9,Germany,Replacement Selection,1998
+78,2013.0,LaMarcus Aldridge,FC,210.82,240.0,Portland Trail Blazers,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,2006
+79,2013.0,Damian Lillard,G,190.5,195.0,Portland Trail Blazers,  Coaches Selection,Rnd 1 Pick 6,United States,oaches Selection,2012
+80,2013.0,Chris Paul,PG,182.88,175.0,Los Angeles Clippers,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2005
+81,2013.0,Tony Parker,G,187.96,185.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 28,France,oaches Selection,2001
+82,2013.0,James Harden,SG,195.5,220.0,Houston Rockets,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,2009
+83,2013.0,Dwight Howard,C,210.82,265.0,Houston Rockets,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,2004
+84,2013.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+85,2013.0,Kevin Durant,SF,205.74,240.0,Oklahoma City Thunder,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,2007
+86,2013.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+87,2013.0,Stephen Curry,G,190.5,190.0,Golden State Warriors,  Fan Vote Selection,Rnd 1 Pick 7,United States,Fan Vote,2009
+88,2013.0,Blake Griffin,PF,208.28,251.0,Los Angeles Clippers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2009
+89,2013.0,Kevin Love,FC,208.28,251.0,Minnesota Timberwolves,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2008
+90,2013.0,Anthony Davis,PF,210.82,253.0,New Orleans Pelicans,  Replacement Selection,Rnd 1 Pick 1,United States,Replacement Selection,2012
+91,2013.0,LeBron James,F,203.2,250.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+92,2013.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+93,2013.0,Kyrie Irving,G,190.5,193.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,"United States
+Australia",Fan Vote,2011
+94,2013.0,Paul George,GF,205.74,220.0,Indiana Pacers,  Fan Vote Selection,Rnd 1 Pick 10,United States,Fan Vote,2010
+95,2013.0,Carmelo Anthony,F,203.2,240.0,New York Knicks,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,2003
+96,2013.0,Roy Hibbert,C,218.44,270.0,Indiana Pacers,  Coaches Selection,Rnd 1 Pick 17,United States,oaches Selection,2008
+97,2013.0,Paul Millsap,FC,203.2,246.0,Atlanta Hawks,  Coaches Selection,Rnd 2 Pick 17,United States,oaches Selection,2006
+98,2013.0,DeMar DeRozan,GF,200.66,220.0,Toronto Raptors,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,2009
+99,2013.0,John Wall,PG,193.04,210.0,Washington Wizards,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,2010
+100,2013.0,Joakim Noah,FC,210.82,230.0,Chicago Bulls,  Coaches Selection,Rnd 1 Pick 9,"France
+United States",oaches Selection,2007
+101,2013.0,Joe Johnson,SG,200.66,240.0,Brooklyn Nets,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2001
+102,2013.0,Chris Bosh,PF,210.82,235.0,Miami Heat,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+103,2012.0,Kevin Durant,SF,205.74,240.0,Oklahoma City Thunder,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,2007
+104,2012.0,Dwight Howard,C,210.82,265.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2004
+105,2012.0,Blake Griffin,PF,208.28,251.0,Los Angeles Clippers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2009
+106,2012.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+107,2012.0,Chris Paul,PG,182.88,175.0,Los Angeles Clippers,  Fan Vote Selection,Rnd 1 Pick 4,United States,Fan Vote,2005
+108,2012.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1997
+109,2012.0,Tony Parker,G,187.96,185.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 28,France,oaches Selection,2001
+110,2012.0,Russell Westbrook,G,190.5,200.0,Oklahoma City Thunder,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2008
+111,2012.0,James Harden,SG,195.5,220.0,Houston Rockets,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,2009
+112,2012.0,Zach Randolph,PF,205.74,260.0,Memphis Grizzlies,  Coaches Selection,Rnd 1 Pick 19,United States,oaches Selection,2001
+113,2012.0,LaMarcus Aldridge,FC,210.82,240.0,Portland Trail Blazers,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,2006
+114,2012.0,David Lee,FC,205.74,245.0,Golden State Warriors,  Coaches Selection,Rnd 1 Pick 30,United States,oaches Selection,2005
+115,2012.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+116,2012.0,LeBron James,F,203.2,250.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+117,2012.0,Rajon Rondo,PG,185.42,186.0,Boston Celtics,  Fan Vote Selection,Rnd 1 Pick 21,United States,Fan Vote,2006
+118,2012.0,Carmelo Anthony,F,203.2,240.0,New York Knicks,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,2003
+119,2012.0,Kevin Garnett,PF,210.82,240.0,Boston Celtics,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1995
+120,2012.0,Chris Bosh,PF,210.82,235.0,Miami Heat,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+121,2012.0,Tyson Chandler,C,215.9,240.0,New York Knicks,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,2001
+122,2012.0,Joakim Noah,FC,210.82,230.0,Chicago Bulls,  Coaches Selection,Rnd 1 Pick 9,"France
+United States",oaches Selection,2007
+123,2012.0,Paul George,GF,205.74,220.0,Indiana Pacers,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2010
+124,2012.0,Luol Deng,GF,205.74,220.0,Chicago Bulls,  Coaches Selection,Rnd 1 Pick 7,"England
+South Sudan",oaches Selection,2004
+125,2012.0,Jrue Holiday,G,193.04,205.0,Philadelphia Sixers,  Coaches Selection,Rnd 1 Pick 17,United States,oaches Selection,2009
+126,2012.0,Kyrie Irving,G,190.5,193.0,Cleveland Cavaliers,  Coaches Selection,Rnd 1 Pick 1,"United States
+Australia",oaches Selection,2011
+127,2012.0,Brook Lopez,C,213.36,268.0,Brooklyn Nets,  Replacement Selection,Rnd 1 Pick 10,United States,Replacement Selection,2008
+128,2011.0,Derrick Rose,PG,190.5,190.0,Chicago Bulls,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2008
+129,2011.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+130,2011.0,LeBron James,F,203.2,250.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+131,2011.0,Carmelo Anthony,F,203.2,240.0,New York Knicks,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,2003
+132,2011.0,Dwight Howard,C,210.82,265.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2004
+133,2011.0,Chris Bosh,PF,210.82,235.0,Miami Heat,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+134,2011.0,Roy Hibbert,C,218.44,270.0,Indiana Pacers,  Coaches Selection,Rnd 1 Pick 17,United States,oaches Selection,2008
+135,2011.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+136,2011.0,Deron Williams,PG,190.5,200.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,2005
+137,2011.0,Luol Deng,GF,205.74,220.0,Chicago Bulls,  Coaches Selection,Rnd 1 Pick 7,"England
+South Sudan",oaches Selection,2004
+138,2011.0,Andre Iguodala,SF,198.12,215.0,Philadelphia Sixers,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,2004
+139,2011.0,Joe Johnson,SG,200.66,240.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2001
+140,2011.0,Rajon Rondo,PG,185.42,186.0,Boston Celtics,  Replacement Selection,Rnd 1 Pick 21,United States,Replacement Selection,2006
+141,2011.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+142,2011.0,Chris Paul,PG,182.88,175.0,Los Angeles Clippers,  Fan Vote Selection,Rnd 1 Pick 4,United States,Fan Vote,2005
+143,2011.0,Kevin Durant,SF,205.74,240.0,Oklahoma City Thunder,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,2007
+144,2011.0,Blake Griffin,PF,208.28,251.0,Los Angeles Clippers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2009
+145,2011.0,Andrew Bynum,C,213.36,285.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 10,United States,Fan Vote,2005
+146,2011.0,Kevin Love,FC,208.28,251.0,Minnesota Timberwolves,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,2008
+147,2011.0,LaMarcus Aldridge,FC,210.82,240.0,Portland Trail Blazers,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,2006
+148,2011.0,Russell Westbrook,G,190.5,200.0,Oklahoma City Thunder,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2008
+149,2011.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+150,2011.0,Tony Parker,G,187.96,185.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 28,France,oaches Selection,2001
+151,2011.0,Steve Nash,G,190.5,178.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 15,"Canada
+South Africa",oaches Selection,1996
+152,2011.0,Marc Gasol,C,215.9,255.0,Memphis Grizzlies,  Coaches Selection,Rnd 2 Pick 18,Spain,oaches Selection,2007
+153,2010.0,Carmelo Anthony,F,203.2,240.0,Denver Nuggets,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,2003
+154,2010.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+155,2010.0,Kevin Durant,SF,205.74,240.0,Oklahoma City Thunder,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,2007
+156,2010.0,Chris Paul,PG,182.88,175.0,New Orleans Hornets,  Fan Vote Selection,Rnd 1 Pick 4,United States,Fan Vote,2005
+157,2010.0,Yao Ming,C,228.6,310.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 1,China,Fan Vote,2002
+158,2010.0,Manu Ginobili,SG,198.12,205.0,San Antonio Spurs,  Coaches Selection,Rnd 2 Pick 28,Argentina,oaches Selection,1999
+159,2010.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+160,2010.0,Pau Gasol,FC,213.36,250.0,Los Angeles Lakers,  Coaches Selection,Rnd 1 Pick 3,Spain,oaches Selection,2001
+161,2010.0,Deron Williams,PG,190.5,200.0,Utah Jazz,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,2005
+162,2010.0,Russell Westbrook,G,190.5,200.0,Oklahoma City Thunder,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2008
+163,2010.0,Blake Griffin,PF,208.28,251.0,Los Angeles Clippers,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,2009
+164,2010.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1997
+165,2010.0,Kevin Love,FC,208.28,251.0,Minnesota Timberwolves,  Replacement Selection,Rnd 1 Pick 5,United States,Replacement Selection,2008
+166,2010.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+167,2010.0,Amar'e Stoudemire,FC,208.28,245.0,New York Knicks,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,2002
+168,2010.0,Dwight Howard,C,210.82,265.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2004
+169,2010.0,LeBron James,F,203.2,250.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+170,2010.0,Derrick Rose,PG,190.5,190.0,Chicago Bulls,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2008
+171,2010.0,Kevin Garnett,PF,210.82,240.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1995
+172,2010.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+173,2010.0,Rajon Rondo,PG,185.42,186.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 21,United States,oaches Selection,2006
+174,2010.0,Ray Allen,SG,195.5,205.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1996
+175,2010.0,Al Horford,FC,208.28,245.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 3,"Dominican Republic
+United States",oaches Selection,2007
+176,2010.0,Joe Johnson,SG,200.66,240.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2001
+177,2010.0,Chris Bosh,PF,210.82,235.0,Miami Heat,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+178,2009.0,Deron Williams,PG,190.5,200.0,Utah Jazz,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,2005
+179,2009.0,Chris Paul,PG,182.88,175.0,New Orleans Hornets,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2005
+180,2009.0,Pau Gasol,FC,213.36,250.0,Los Angeles Lakers,  Coaches Selection,Rnd 1 Pick 3,Spain,oaches Selection,2001
+181,2009.0,Kevin Durant,SF,205.74,240.0,Oklahoma City Thunder,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,2007
+182,2009.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+183,2009.0,Zach Randolph,PF,205.74,260.0,Memphis Grizzlies,  Coaches Selection,Rnd 1 Pick 19,United States,oaches Selection,2001
+184,2009.0,Brandon Roy,G,198.12,211.0,Portland Trail Blazers,  Coaches Selection,Rnd 1 Pick 6,United States,oaches Selection,2006
+185,2009.0,Steve Nash,G,190.5,178.0,Phoenix Suns,  Fan Vote Selection,Rnd 1 Pick 15,"Canada
+South Africa",Fan Vote,1996
+186,2009.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+187,2009.0,Amar'e Stoudemire,FC,208.28,245.0,Phoenix Suns,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,2002
+188,2009.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+189,2009.0,Carmelo Anthony,F,203.2,240.0,Denver Nuggets,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,2003
+190,2009.0,Chauncey Billups,G,190.5,210.0,Denver Nuggets,  Replacement Selection,Rnd 1 Pick 3,United States,Replacement Selection,1997
+191,2009.0,Chris Kaman,C,213.36,265.0,Los Angeles Clippers,  Replacement Selection,Rnd 1 Pick 6,"United States
+Germany",Replacement Selection,2003
+192,2009.0,Jason Kidd,PG,193.04,210.0,Dallas Mavericks,  Replacement Selection,Rnd 1 Pick 2,United States,Replacement Selection,1994
+193,2009.0,LeBron James,F,203.2,250.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+194,2009.0,Kevin Garnett,PF,210.82,240.0,Boston Celtics,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1995
+195,2009.0,Allen Iverson,G,182.88,165.0,Philadelphia Sixers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1996
+196,2009.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+197,2009.0,Dwight Howard,C,210.82,265.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2004
+198,2009.0,Rajon Rondo,PG,185.42,186.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 21,United States,oaches Selection,2006
+199,2009.0,Derrick Rose,PG,190.5,190.0,Chicago Bulls,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,2008
+200,2009.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+201,2009.0,Chris Bosh,PF,210.82,235.0,Toronto Raptors,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+202,2009.0,Gerald Wallace,F,200.66,220.0,Charlotte Bobcats,  Coaches Selection,Rnd 1 Pick 25,United States,oaches Selection,2001
+203,2009.0,Joe Johnson,SG,200.66,240.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2001
+204,2009.0,Al Horford,FC,208.28,245.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 3,"Dominican Republic
+United States",oaches Selection,2007
+205,2009.0,David Lee,FC,205.74,245.0,New York Knicks,  Replacement Selection,Rnd 1 Pick 30,United States,Replacement Selection,2005
+206,2008.0,Chauncey Billups,G,190.5,210.0,Denver Nuggets,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,1997
+207,2008.0,Pau Gasol,FC,213.36,250.0,Los Angeles Lakers,  Coaches Selection,Rnd 1 Pick 3,Spain,oaches Selection,2001
+208,2008.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+209,2008.0,Shaquille O'Neal,C,215.9,325.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1992
+210,2008.0,Tony Parker,G,187.96,185.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 28,France,oaches Selection,2001
+211,2008.0,Brandon Roy,G,198.12,211.0,Portland Trail Blazers,  Coaches Selection,Rnd 1 Pick 6,United States,oaches Selection,2006
+212,2008.0,David West,PF,205.74,250.0,New Orleans Hornets,  Coaches Selection,Rnd 1 Pick 18,United States,oaches Selection,2003
+213,2008.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+214,2008.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+215,2008.0,Chris Paul,PG,182.88,175.0,New Orleans Hornets,  Fan Vote Selection,Rnd 1 Pick 4,United States,Fan Vote,2005
+216,2008.0,Yao Ming,C,228.6,310.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 1,China,Fan Vote,2002
+217,2008.0,Amar'e Stoudemire,FC,208.28,245.0,Phoenix Suns,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,2002
+218,2008.0,Kevin Garnett,PF,210.82,240.0,Boston Celtics,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1995
+219,2008.0,Dwight Howard,C,210.82,265.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2004
+220,2008.0,Allen Iverson,G,182.88,165.0,Detroit Pistons,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1996
+221,2008.0,LeBron James,F,203.2,250.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+222,2008.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+223,2008.0,Chris Bosh,PF,210.82,235.0,Toronto Raptors,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+224,2008.0,Danny Granger,GF,205.74,222.0,Indiana Pacers,  Coaches Selection,Rnd 1 Pick 17,United States,oaches Selection,2005
+225,2008.0,Devin Harris,G,190.5,185.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,2004
+226,2008.0,Joe Johnson,SG,200.66,240.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2001
+227,2008.0,Rashard Lewis,F,208.28,235.0,Orlando Magic,  Coaches Selection,Rnd 2 Pick 3,United States,oaches Selection,1998
+228,2008.0,Jameer Nelson,G,182.88,190.0,Orlando Magic,  Coaches Selection,Rnd 1 Pick 20,United States,oaches Selection,2004
+229,2008.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+230,2008.0,Ray Allen,SG,195.5,205.0,Boston Celtics,  Replacement Selection,Rnd 1 Pick 5,United States,Replacement Selection,1996
+231,2008.0,Mo Williams,G,185.42,198.0,Cleveland Cavaliers,  Replacement Selection,Rnd 2 Pick 18,United States,Replacement Selection,2003
+232,2007.0,Carlos Boozer,PF,205.74,266.0,Utah Jazz,  Coaches Selection,Rnd 2 Pick 6,"Germany
+United States",oaches Selection,2002
+233,2007.0,Steve Nash,G,190.5,178.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 15,"Canada
+South Africa",oaches Selection,1996
+234,2007.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+235,2007.0,Chris Paul,PG,182.88,175.0,New Orleans Hornets,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2005
+236,2007.0,Brandon Roy,G,198.12,211.0,Portland Trail Blazers,  Coaches Selection,Rnd 1 Pick 6,United States,oaches Selection,2006
+237,2007.0,Amar'e Stoudemire,FC,208.28,245.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,2002
+238,2007.0,David West,PF,205.74,250.0,New Orleans Hornets,  Coaches Selection,Rnd 1 Pick 18,United States,oaches Selection,2003
+239,2007.0,Allen Iverson,G,182.88,165.0,Denver Nuggets,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1996
+240,2007.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+241,2007.0,Carmelo Anthony,F,203.2,240.0,Denver Nuggets,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,2003
+242,2007.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+243,2007.0,Yao Ming,C,228.6,310.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 1,China,Fan Vote,2002
+244,2007.0,Jason Kidd,PG,193.04,210.0,New Jersey Nets,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,1994
+245,2007.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+246,2007.0,LeBron James,F,203.2,250.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+247,2007.0,Kevin Garnett,PF,210.82,240.0,Boston Celtics,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1995
+248,2007.0,Dwight Howard,C,210.82,265.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2004
+249,2007.0,Chauncey Billups,G,190.5,210.0,Detroit Pistons,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,1997
+250,2007.0,Chris Bosh,PF,210.82,235.0,Toronto Raptors,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+251,2007.0,Caron Butler,SF,200.66,228.0,Washington Wizards,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2002
+252,2007.0,Richard Hamilton,SG,200.66,193.0,Detroit Pistons,  Coaches Selection,Rnd 1 Pick 7,United States,oaches Selection,1999
+253,2007.0,Antawn Jamison,F,205.74,235.0,Washington Wizards,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,1998
+254,2007.0,Joe Johnson,SG,200.66,240.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2001
+255,2007.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+256,2007.0,Ray Allen,SG,195.5,205.0,Boston Celtics,  Replacement Selection,Rnd 1 Pick 5,United States,Replacement Selection,1996
+257,2007.0,Rasheed Wallace,FC,210.82,230.0,Detroit Pistons,  Replacement Selection,Rnd 1 Pick 4,United States,Replacement Selection,1995
+258,2006.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+259,2006.0,Tracy McGrady,GF,203.2,210.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,1997
+260,2006.0,Kevin Garnett,PF,210.82,240.0,Minnesota Timberwolves,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1995
+261,2006.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+262,2006.0,Yao Ming,C,228.6,310.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 1,China,Fan Vote,2002
+263,2006.0,Steve Nash,G,190.5,178.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 15,"Canada
+South Africa",oaches Selection,1996
+264,2006.0,Amar'e Stoudemire,FC,208.28,245.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,2002
+265,2006.0,Carlos Boozer,PF,205.74,266.0,Utah Jazz,  Coaches Selection,Rnd 2 Pick 6,"Germany
+United States",oaches Selection,2002
+266,2006.0,Tony Parker,G,187.96,185.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 28,France,oaches Selection,2001
+267,2006.0,Allen Iverson,G,182.88,165.0,Denver Nuggets,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1996
+268,2006.0,Shawn Marion,F,200.66,228.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,1999
+269,2006.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+270,2006.0,Ray Allen,SG,195.5,205.0,Seattle SuperSonics,  Replacement Selection,Rnd 1 Pick 5,United States,Replacement Selection,1996
+271,2006.0,Carmelo Anthony,F,203.2,240.0,Denver Nuggets,  Replacement Selection,Rnd 1 Pick 3,United States,Replacement Selection,2003
+272,2006.0,Josh Howard,GF,200.66,210.0,Dallas Mavericks,  Replacement Selection,Rnd 1 Pick 29,United States,Replacement Selection,2003
+273,2006.0,Mehmet Okur,FC,210.82,249.0,Utah Jazz,  Replacement Selection,Rnd 2 Pick 9,Turkey,Replacement Selection,2001
+274,2006.0,Gilbert Arenas,G,190.5,191.0,Washington Wizards,  Fan Vote Selection,Rnd 2 Pick 2,United States,Fan Vote,2001
+275,2006.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+276,2006.0,LeBron James,F,203.2,250.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+277,2006.0,Chris Bosh,PF,210.82,235.0,Toronto Raptors,  Fan Vote Selection,Rnd 1 Pick 4,United States,Fan Vote,2003
+278,2006.0,Shaquille O'Neal,C,215.9,325.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1992
+279,2006.0,Chauncey Billups,G,190.5,210.0,Detroit Pistons,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,1997
+280,2006.0,Caron Butler,SF,200.66,228.0,Washington Wizards,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,2002
+281,2006.0,Vince Carter,SF,198.12,220.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1998
+282,2006.0,Richard Hamilton,SG,200.66,193.0,Detroit Pistons,  Coaches Selection,Rnd 1 Pick 7,United States,oaches Selection,1999
+283,2006.0,Dwight Howard,C,210.82,265.0,Orlando Magic,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,2004
+284,2006.0,Jason Kidd,PG,193.04,210.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,1994
+285,2006.0,Jermaine O'Neal,FC,210.82,235.0,Indiana Pacers,  Coaches Selection,Rnd 1 Pick 17,United States,oaches Selection,1996
+286,2006.0,Joe Johnson,SG,200.66,240.0,Atlanta Hawks,  Replacement Selection,Rnd 1 Pick 10,United States,Replacement Selection,2001
+287,2005.0,Steve Nash,G,190.5,178.0,Phoenix Suns,  Fan Vote Selection,Rnd 1 Pick 15,"Canada
+South Africa",Fan Vote,1996
+288,2005.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+289,2005.0,Tracy McGrady,GF,203.2,210.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,1997
+290,2005.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+291,2005.0,Yao Ming,C,228.6,310.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 1,China,Fan Vote,2002
+292,2005.0,Ray Allen,SG,195.5,205.0,Seattle SuperSonics,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1996
+293,2005.0,Elton Brand,PF,205.74,254.0,Los Angeles Clippers,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1999
+294,2005.0,Kevin Garnett,PF,210.82,240.0,Minnesota Timberwolves,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1995
+295,2005.0,Pau Gasol,FC,213.36,250.0,Memphis Grizzlies,  Coaches Selection,Rnd 1 Pick 3,Spain,oaches Selection,2001
+296,2005.0,Shawn Marion,F,200.66,228.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,1999
+297,2005.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+298,2005.0,Tony Parker,G,187.96,185.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 28,France,oaches Selection,2001
+299,2005.0,Allen Iverson,G,182.88,165.0,Philadelphia Sixers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1996
+300,2005.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,2003
+301,2005.0,LeBron James,F,203.2,250.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+302,2005.0,Shaquille O'Neal,C,215.9,325.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1992
+303,2005.0,Jermaine O'Neal,FC,210.82,235.0,Indiana Pacers,  Fan Vote Selection,Rnd 1 Pick 17,United States,Fan Vote,1996
+304,2005.0,Chauncey Billups,G,190.5,210.0,Detroit Pistons,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,1997
+305,2005.0,Chris Bosh,PF,210.82,235.0,Toronto Raptors,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,2003
+306,2005.0,Vince Carter,SF,198.12,220.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1998
+307,2005.0,Richard Hamilton,SG,200.66,193.0,Detroit Pistons,  Coaches Selection,Rnd 1 Pick 7,United States,oaches Selection,1999
+308,2005.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+309,2005.0,Ben Wallace,FC,205.74,240.0,Detroit Pistons,  Coaches Selection,NBA Draft  Undrafted,United States,oaches Selection,1996
+310,2005.0,Rasheed Wallace,FC,210.82,230.0,Detroit Pistons,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,1995
+311,2005.0,Gilbert Arenas,G,190.5,191.0,Washington Wizards,  Replacement Selection,Rnd 2 Pick 2,United States,Replacement Selection,2001
+312,2004.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+313,2004.0,Tracy McGrady,GF,203.2,210.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,1997
+314,2004.0,Kevin Garnett,PF,210.82,240.0,Minnesota Timberwolves,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1995
+315,2004.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+316,2004.0,Yao Ming,C,228.6,310.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 1,China,Fan Vote,2002
+317,2004.0,Manu Ginobili,SG,198.12,205.0,San Antonio Spurs,  Coaches Selection,Rnd 2 Pick 28,Argentina,oaches Selection,1999
+318,2004.0,Amar'e Stoudemire,FC,208.28,245.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,2002
+319,2004.0,Ray Allen,SG,195.5,205.0,Seattle SuperSonics,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1996
+320,2004.0,Shawn Marion,F,200.66,228.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,1999
+321,2004.0,Steve Nash,G,190.5,178.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 15,"Canada
+South Africa",oaches Selection,1996
+322,2004.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+323,2004.0,Rashard Lewis,F,208.28,235.0,Seattle SuperSonics,  Coaches Selection,Rnd 2 Pick 3,United States,oaches Selection,1998
+324,2004.0,Allen Iverson,G,182.88,165.0,Philadelphia Sixers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1996
+325,2004.0,LeBron James,F,203.2,250.0,Cleveland Cavaliers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,2003
+326,2004.0,Vince Carter,SF,198.12,220.0,New Jersey Nets,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1998
+327,2004.0,Shaquille O'Neal,C,215.9,325.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1992
+328,2004.0,Grant Hill,SF,203.2,225.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,1994
+329,2004.0,Gilbert Arenas,G,190.5,191.0,Washington Wizards,  Coaches Selection,Rnd 2 Pick 2,United States,oaches Selection,2001
+330,2004.0,Antawn Jamison,F,205.74,235.0,Washington Wizards,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,1998
+331,2004.0,Dwyane Wade,SG,193.04,220.0,Miami Heat,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,2003
+332,2004.0,Zydrunas Ilgauskas,C,220.98,260.0,Cleveland Cavaliers,  Coaches Selection,Rnd 1 Pick 20,Lithuania,oaches Selection,1996
+333,2004.0,Jermaine O'Neal,FC,210.82,235.0,Indiana Pacers,  Coaches Selection,Rnd 1 Pick 17,United States,oaches Selection,1996
+334,2004.0,Ben Wallace,FC,205.74,240.0,Detroit Pistons,  Coaches Selection,NBA Draft  Undrafted,United States,oaches Selection,1996
+335,2004.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+336,2003.0,Steve Francis,G,190.5,195.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,1999
+337,2003.0,Yao Ming,C,228.6,310.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 1,China,Fan Vote,2002
+338,2003.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+339,2003.0,Kevin Garnett,PF,210.82,240.0,Minnesota Timberwolves,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1995
+340,2003.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+341,2003.0,Shaquille O'Neal,C,215.9,325.0,Los Angeles Lakers,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1992
+342,2003.0,Andrei Kirilenko,PF,205.74,235.0,Utah Jazz,  Coaches Selection,Rnd 1 Pick 24,Russia,oaches Selection,1999
+343,2003.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+344,2003.0,Peja Stojakovic,F,208.28,229.0,Sacramento Kings,  Coaches Selection,Rnd 1 Pick 14,"Serbia
+Greece",oaches Selection,1996
+345,2003.0,Ray Allen,SG,195.5,205.0,Seattle SuperSonics,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1996
+346,2003.0,Brad Miller,C,213.36,261.0,Sacramento Kings,  Coaches Selection,NBA Draft  Undrafted,United States,oaches Selection,1998
+347,2003.0,Sam Cassell,G,190.5,185.0,Minnesota Timberwolves,  Coaches Selection,Rnd 1 Pick 24,United States,oaches Selection,1993
+348,2003.0,Ben Wallace,FC,205.74,240.0,Detroit Pistons,  Fan Vote Selection,NBA Draft  Undrafted,United States,Fan Vote,1996
+349,2003.0,Jermaine O'Neal,FC,210.82,235.0,Indiana Pacers,  Fan Vote Selection,Rnd 1 Pick 17,United States,Fan Vote,1996
+350,2003.0,Tracy McGrady,GF,203.2,210.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,1997
+351,2003.0,Allen Iverson,G,182.88,165.0,Philadelphia Sixers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1996
+352,2003.0,Vince Carter,SF,198.12,220.0,Toronto Raptors,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1998
+353,2003.0,Jason Kidd,PG,193.04,210.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,1994
+354,2003.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+355,2003.0,Baron Davis,G,190.5,215.0,New Orleans Hornets,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,1999
+356,2003.0,Metta World Peace,SF,200.66,260.0,Indiana Pacers,  Coaches Selection,Rnd 1 Pick 16,United States,oaches Selection,1999
+357,2003.0,Michael Redd,G,198.12,220.0,Milwaukee Bucks,  Coaches Selection,Rnd 2 Pick 14,United States,oaches Selection,2000
+358,2003.0,Kenyon Martin,F,205.74,240.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,2000
+359,2003.0,Jamaal Magloire,C,210.82,259.0,New Orleans Hornets,  Coaches Selection,Rnd 1 Pick 19,Canada,oaches Selection,2000
+360,2002.0,Ben Wallace,FC,205.74,240.0,Detroit Pistons,  Fan Vote Selection,NBA Draft  Undrafted,United States,Fan Vote,1996
+361,2002.0,Jermaine O'Neal,FC,210.82,235.0,Indiana Pacers,  Fan Vote Selection,Rnd 1 Pick 17,United States,Fan Vote,1996
+362,2002.0,Tracy McGrady,GF,203.2,210.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,1997
+363,2002.0,Allen Iverson,G,182.88,165.0,Philadelphia Sixers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1996
+364,2002.0,Jason Kidd,PG,193.04,210.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,1994
+365,2002.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+366,2002.0,Antoine Walker,F,205.74,265.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 6,United States,oaches Selection,1996
+367,2002.0,Zydrunas Ilgauskas,C,220.98,260.0,Cleveland Cavaliers,  Coaches Selection,Rnd 1 Pick 20,Lithuania,oaches Selection,1996
+368,2002.0,Michael Jordan,SG,198.12,215.0,Washington Wizards,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,1984
+369,2002.0,Jamal Mashburn,SF,203.2,247.0,New Orleans Hornets,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,1993
+370,2002.0,Vince Carter,SF,198.12,220.0,Toronto Raptors,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1998
+371,2002.0,Brad Miller,C,213.36,261.0,Indiana Pacers,  Coaches Selection,NBA Draft  Undrafted,United States,oaches Selection,1998
+372,2002.0,Steve Francis,G,190.5,195.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,1999
+373,2002.0,Yao Ming,C,228.6,310.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 1,China,Fan Vote,2002
+374,2002.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+375,2002.0,Kevin Garnett,PF,210.82,240.0,Minnesota Timberwolves,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1995
+376,2002.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+377,2002.0,Shaquille O'Neal,C,215.9,325.0,Los Angeles Lakers,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1992
+378,2002.0,Stephon Marbury,G,187.96,180.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,1996
+379,2002.0,Shawn Marion,F,200.66,228.0,Phoenix Suns,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,1999
+380,2002.0,Steve Nash,G,190.5,178.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 15,"Canada
+South Africa",oaches Selection,1996
+381,2002.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+382,2002.0,Gary Payton,G,193.04,180.0,Seattle SuperSonics,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,1990
+383,2002.0,Peja Stojakovic,F,208.28,229.0,Sacramento Kings,  Replacement Selection,Rnd 1 Pick 14,"Serbia
+Greece",Replacement Selection,1996
+384,2002.0,Chris Webber,F-C,205.74,245.0,Sacramento Kings,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1993
+385,2001.0,Dikembe Mutombo,C,218.44,260.0,Philadelphia Sixers,  Fan Vote Selection,Rnd 1 Pick 4,Democratic Republic of the Congo,Fan Vote,1991
+386,2001.0,Vince Carter,SF,198.12,220.0,Toronto Raptors,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1998
+387,2001.0,Antoine Walker,F,205.74,265.0,Boston Celtics,  Fan Vote Selection,Rnd 1 Pick 6,United States,Fan Vote,1996
+388,2001.0,Allen Iverson,G,182.88,165.0,Philadelphia Sixers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1996
+389,2001.0,Ray Allen,SG,195.5,205.0,Milwaukee Bucks,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1996
+390,2001.0,Shareef Abdur-Rahim,F,205.74,225.0,Atlanta Hawks,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,1996
+391,2001.0,Jason Kidd,PG,193.04,210.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,1994
+392,2001.0,Tracy McGrady,GF,203.2,210.0,Orlando Magic,  Coaches Selection,Rnd 1 Pick 9,United States,oaches Selection,1997
+393,2001.0,Alonzo Mourning,C,208.28,240.0,Miami Heat,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,1992
+394,2001.0,Paul Pierce,SF,200.66,235.0,Boston Celtics,  Coaches Selection,Rnd 1 Pick 10,United States,oaches Selection,1998
+395,2001.0,Jermaine O'Neal,FC,210.82,235.0,Indiana Pacers,  Coaches Selection,Rnd 1 Pick 17,United States,oaches Selection,1996
+396,2001.0,Baron Davis,G,190.5,215.0,Charlotte Hornets,  Replacement Selection,Rnd 1 Pick 3,United States,Replacement Selection,1999
+397,2001.0,Michael Jordan,SG,198.12,215.0,Washington Wizards,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,1984
+398,2001.0,Shaquille O'Neal,C,215.9,325.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1992
+399,2001.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+400,2001.0,Kevin Garnett,PF,210.82,240.0,Minnesota Timberwolves,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1995
+401,2001.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+402,2001.0,Steve Francis,G,190.5,195.0,Houston Rockets,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,1999
+403,2001.0,Karl Malone,PF,205.74,265.0,Utah Jazz,  Coaches Selection,Rnd 1 Pick 13,United States,oaches Selection,1985
+404,2001.0,Steve Nash,G,190.5,178.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 15,"Canada
+South Africa",oaches Selection,1996
+405,2001.0,Dirk Nowitzki,PF,213.36,245.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 9,Germany,oaches Selection,1998
+406,2001.0,Gary Payton,G,193.04,180.0,Seattle SuperSonics,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,1990
+407,2001.0,Peja Stojakovic,F,208.28,229.0,Sacramento Kings,  Coaches Selection,Rnd 1 Pick 14,"Serbia
+Greece",oaches Selection,1996
+408,2001.0,Wally Szczerbiak,F,200.66,240.0,Minnesota Timberwolves,  Coaches Selection,Rnd 1 Pick 6,"United States
+Spain",oaches Selection,1999
+409,2001.0,Chris Webber,F-C,205.74,245.0,Sacramento Kings,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1993
+410,2001.0,Elton Brand,PF,205.74,254.0,Los Angeles Clippers,  Replacement Selection,Rnd 1 Pick 1,United States,Replacement Selection,1999
+411,2000.0,Allen Iverson,G,182.88,165.0,Philadelphia Sixers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1996
+412,2000.0,Tracy McGrady,GF,203.2,210.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 9,United States,Fan Vote,1997
+413,2000.0,Vince Carter,SF,198.12,220.0,Toronto Raptors,  Fan Vote Selection,Rnd 1 Pick 5,United States,Fan Vote,1998
+414,2000.0,Alonzo Mourning,C,208.28,240.0,Miami Heat,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,1992
+415,2000.0,Grant Hill,SF,203.2,225.0,Orlando Magic,  Fan Vote Selection,Rnd 1 Pick 3,United States,Fan Vote,1994
+416,2000.0,Ray Allen,SG,195.5,205.0,Milwaukee Bucks,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1996
+417,2000.0,Antonio Davis,FC,205.74,245.0,Toronto Raptors,  Replacement Selection,Rnd 2 Pick 18,United States,Replacement Selection,1990
+418,2000.0,Theo Ratliff,C,208.28,235.0,Philadelphia Sixers,  Coaches Selection,Rnd 1 Pick 18,United States,oaches Selection,1995
+419,2000.0,Glenn Robinson,SF,200.66,225.0,Milwaukee Bucks,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1994
+420,2000.0,Jerry Stackhouse,SF,198.12,218.0,Detroit Pistons,  Coaches Selection,Rnd 1 Pick 3,United States,oaches Selection,1995
+421,2000.0,Stephon Marbury,G,187.96,180.0,New Jersey Nets,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,1996
+422,2000.0,Anthony Mason,PF,200.66,250.0,Miami Heat,  Coaches Selection,Rnd 3 Pick 3,United States,oaches Selection,1988
+423,2000.0,Dikembe Mutombo,C,218.44,260.0,Atlanta Hawks,  Replacement Selection,Rnd 1 Pick 4,Democratic Republic of the Congo,Replacement Selection,1991
+424,2000.0,Latrell Sprewell,SG,195.5,190.0,New York Knicks,  Replacement Selection,Rnd 1 Pick 24,United States,Replacement Selection,1992
+425,2000.0,Allan Houston,G,198.12,205.0,New York Knicks,  Coaches Selection,Rnd 1 Pick 11,United States,oaches Selection,1993
+426,2000.0,Jason Kidd,PG,193.04,210.0,Phoenix Suns,  Fan Vote Selection,Rnd 1 Pick 2,United States,Fan Vote,1994
+427,2000.0,Kobe Bryant,SG,198.12,212.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 13,United States,Fan Vote,1996
+428,2000.0,Tim Duncan,FC,210.82,250.0,San Antonio Spurs,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1997
+429,2000.0,Shaquille O'Neal,C,215.9,325.0,Los Angeles Lakers,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1992
+430,2000.0,Chris Webber,F-C,205.74,245.0,Sacramento Kings,  Fan Vote Selection,Rnd 1 Pick 1,United States,Fan Vote,1993
+431,2000.0,Michael Finley,G-F,200.66,225.0,Dallas Mavericks,  Coaches Selection,Rnd 1 Pick 21,United States,oaches Selection,1995
+432,2000.0,Kevin Garnett,PF,210.82,240.0,Minnesota Timberwolves,  Coaches Selection,Rnd 1 Pick 5,United States,oaches Selection,1995
+433,2000.0,Karl Malone,PF,205.74,265.0,Utah Jazz,  Coaches Selection,Rnd 1 Pick 13,United States,oaches Selection,1985
+434,2000.0,Antonio McDyess,F,205.74,245.0,Denver Nuggets,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,1995
+435,2000.0,Gary Payton,G,193.04,180.0,Seattle SuperSonics,  Coaches Selection,Rnd 1 Pick 2,United States,oaches Selection,1990
+436,2000.0,Rasheed Wallace,FC,210.82,230.0,Portland Trail Blazers,  Coaches Selection,Rnd 1 Pick 4,United States,oaches Selection,1995
+437,2000.0,David Robinson,C,215.9,250.0,San Antonio Spurs,  Coaches Selection,Rnd 1 Pick 1,United States,oaches Selection,1987
+438,2000.0,Vlade Divac,C,215.9,260.0,Sacramento Kings,  Replacement Selection,Rnd 1 Pick 26,Serbia,Replacement Selection,1989
+439,,,,,,,nan,,,nan,nan
+440,,,,,,,nan,,,nan,nan
+441,,,,,,,nan,,,nan,nan
+442,,,,,,,nan,,,nan,nan
+443,,,,,,,nan,,,nan,nan
+444,,,,,,,nan,,,nan,nan
+445,,,,,,,nan,,,nan,nan
+446,,,,,,,nan,,,nan,nan
+447,,,,,,,nan,,,nan,nan
+448,,,,,,,nan,,,nan,nan
+449,,,,,,,nan,,,nan,nan
+450,,,,,,,nan,,,nan,nan
+451,,,,,,,nan,,,nan,nan
+452,,,,,,,nan,,,nan,nan
+453,,,,,,,nan,,,nan,nan
+454,,,,,,,nan,,,nan,nan
+455,,,,,,,nan,,,nan,nan
+456,,,,,,,nan,,,nan,nan
+457,,,,,,,nan,,,nan,nan
+458,,,,,,,nan,,,nan,nan
+459,,,,,,,nan,,,nan,nan
+460,,,,,,,nan,,,nan,nan
+461,,,,,,,nan,,,nan,nan
+462,,,,,,,nan,,,nan,nan
+463,,,,,,,nan,,,nan,nan
+464,,,,,,,nan,,,nan,nan
+465,,,,,,,nan,,,nan,nan
+466,,,,,,,nan,,,nan,nan
+467,,,,,,,nan,,,nan,nan
+468,,,,,,,nan,,,nan,nan
+469,,,,,,,nan,,,nan,nan
+470,,,,,,,nan,,,nan,nan
+471,,,,,,,nan,,,nan,nan
+472,,,,,,,nan,,,nan,nan
+473,,,,,,,nan,,,nan,nan
+474,,,,,,,nan,,,nan,nan
+475,,,,,,,nan,,,nan,nan
+476,,,,,,,nan,,,nan,nan
+477,,,,,,,nan,,,nan,nan
+478,,,,,,,nan,,,nan,nan
+479,,,,,,,nan,,,nan,nan
+480,,,,,,,nan,,,nan,nan
+481,,,,,,,nan,,,nan,nan
+482,,,,,,,nan,,,nan,nan
+483,,,,,,,nan,,,nan,nan
+484,,,,,,,nan,,,nan,nan
+485,,,,,,,nan,,,nan,nan
+486,,,,,,,nan,,,nan,nan
+487,,,,,,,nan,,,nan,nan
+488,,,,,,,nan,,,nan,nan
+489,,,,,,,nan,,,nan,nan
+490,,,,,,,nan,,,nan,nan
+491,,,,,,,nan,,,nan,nan
+492,,,,,,,nan,,,nan,nan
+493,,,,,,,nan,,,nan,nan
+494,,,,,,,nan,,,nan,nan
+495,,,,,,,nan,,,nan,nan
+496,,,,,,,nan,,,nan,nan
+497,,,,,,,nan,,,nan,nan
+498,,,,,,,nan,,,nan,nan
+499,,,,,,,nan,,,nan,nan
+500,,,,,,,nan,,,nan,nan
+501,,,,,,,nan,,,nan,nan
+502,,,,,,,nan,,,nan,nan
+503,,,,,,,nan,,,nan,nan
+504,,,,,,,nan,,,nan,nan
+505,,,,,,,nan,,,nan,nan
+506,,,,,,,nan,,,nan,nan
+507,,,,,,,nan,,,nan,nan
+508,,,,,,,nan,,,nan,nan
+509,,,,,,,nan,,,nan,nan
+510,,,,,,,nan,,,nan,nan
+511,,,,,,,nan,,,nan,nan
+512,,,,,,,nan,,,nan,nan
+513,,,,,,,nan,,,nan,nan
+514,,,,,,,nan,,,nan,nan
+515,,,,,,,nan,,,nan,nan
+516,,,,,,,nan,,,nan,nan
+517,,,,,,,nan,,,nan,nan
+518,,,,,,,nan,,,nan,nan
+519,,,,,,,nan,,,nan,nan
+520,,,,,,,nan,,,nan,nan
+521,,,,,,,nan,,,nan,nan
+522,,,,,,,nan,,,nan,nan
+523,,,,,,,nan,,,nan,nan
+524,,,,,,,nan,,,nan,nan
+525,,,,,,,nan,,,nan,nan
+526,,,,,,,nan,,,nan,nan
+527,,,,,,,nan,,,nan,nan
+528,,,,,,,nan,,,nan,nan
+529,,,,,,,nan,,,nan,nan
+530,,,,,,,nan,,,nan,nan
+531,,,,,,,nan,,,nan,nan
+532,,,,,,,nan,,,nan,nan
+533,,,,,,,nan,,,nan,nan
+534,,,,,,,nan,,,nan,nan
+535,,,,,,,nan,,,nan,nan
+536,,,,,,,nan,,,nan,nan
+537,,,,,,,nan,,,nan,nan
+538,,,,,,,nan,,,nan,nan
+539,,,,,,,nan,,,nan,nan
+540,,,,,,,nan,,,nan,nan
+541,,,,,,,nan,,,nan,nan
+542,,,,,,,nan,,,nan,nan
+543,,,,,,,nan,,,nan,nan
+544,,,,,,,nan,,,nan,nan
+545,,,,,,,nan,,,nan,nan
+546,,,,,,,nan,,,nan,nan
+547,,,,,,,nan,,,nan,nan
+548,,,,,,,nan,,,nan,nan
+549,,,,,,,nan,,,nan,nan
+550,,,,,,,nan,,,nan,nan
+551,,,,,,,nan,,,nan,nan
+552,,,,,,,nan,,,nan,nan
+553,,,,,,,nan,,,nan,nan
+554,,,,,,,nan,,,nan,nan
+555,,,,,,,nan,,,nan,nan
+556,,,,,,,nan,,,nan,nan
+557,,,,,,,nan,,,nan,nan
+558,,,,,,,nan,,,nan,nan
+559,,,,,,,nan,,,nan,nan
+560,,,,,,,nan,,,nan,nan
+561,,,,,,,nan,,,nan,nan
+562,,,,,,,nan,,,nan,nan
+563,,,,,,,nan,,,nan,nan
+564,,,,,,,nan,,,nan,nan
+565,,,,,,,nan,,,nan,nan
+566,,,,,,,nan,,,nan,nan
+567,,,,,,,nan,,,nan,nan
+568,,,,,,,nan,,,nan,nan
+569,,,,,,,nan,,,nan,nan
+570,,,,,,,nan,,,nan,nan
+571,,,,,,,nan,,,nan,nan
+572,,,,,,,nan,,,nan,nan
+573,,,,,,,nan,,,nan,nan
+574,,,,,,,nan,,,nan,nan
+575,,,,,,,nan,,,nan,nan
+576,,,,,,,nan,,,nan,nan
+577,,,,,,,nan,,,nan,nan
+578,,,,,,,nan,,,nan,nan
+579,,,,,,,nan,,,nan,nan
+580,,,,,,,nan,,,nan,nan
+581,,,,,,,nan,,,nan,nan
+582,,,,,,,nan,,,nan,nan
+583,,,,,,,nan,,,nan,nan
+584,,,,,,,nan,,,nan,nan
+585,,,,,,,nan,,,nan,nan
+586,,,,,,,nan,,,nan,nan
+587,,,,,,,nan,,,nan,nan
+588,,,,,,,nan,,,nan,nan
+589,,,,,,,nan,,,nan,nan
+590,,,,,,,nan,,,nan,nan
+591,,,,,,,nan,,,nan,nan
+592,,,,,,,nan,,,nan,nan
+593,,,,,,,nan,,,nan,nan
+594,,,,,,,nan,,,nan,nan
+595,,,,,,,nan,,,nan,nan
+596,,,,,,,nan,,,nan,nan
+597,,,,,,,nan,,,nan,nan
+598,,,,,,,nan,,,nan,nan
+599,,,,,,,nan,,,nan,nan
+600,,,,,,,nan,,,nan,nan
+601,,,,,,,nan,,,nan,nan
+602,,,,,,,nan,,,nan,nan
+603,,,,,,,nan,,,nan,nan
+604,,,,,,,nan,,,nan,nan
+605,,,,,,,nan,,,nan,nan
+606,,,,,,,nan,,,nan,nan
+607,,,,,,,nan,,,nan,nan
+608,,,,,,,nan,,,nan,nan
+609,,,,,,,nan,,,nan,nan
+610,,,,,,,nan,,,nan,nan
+611,,,,,,,nan,,,nan,nan
+612,,,,,,,nan,,,nan,nan
+613,,,,,,,nan,,,nan,nan
+614,,,,,,,nan,,,nan,nan
+615,,,,,,,nan,,,nan,nan
+616,,,,,,,nan,,,nan,nan
+617,,,,,,,nan,,,nan,nan
+618,,,,,,,nan,,,nan,nan
+619,,,,,,,nan,,,nan,nan
+620,,,,,,,nan,,,nan,nan
+621,,,,,,,nan,,,nan,nan
+622,,,,,,,nan,,,nan,nan
+623,,,,,,,nan,,,nan,nan
+624,,,,,,,nan,,,nan,nan
+625,,,,,,,nan,,,nan,nan
+626,,,,,,,nan,,,nan,nan
+627,,,,,,,nan,,,nan,nan
+628,,,,,,,nan,,,nan,nan
+629,,,,,,,nan,,,nan,nan
+630,,,,,,,nan,,,nan,nan
+631,,,,,,,nan,,,nan,nan
+632,,,,,,,nan,,,nan,nan
+633,,,,,,,nan,,,nan,nan
+634,,,,,,,nan,,,nan,nan
+635,,,,,,,nan,,,nan,nan
+636,,,,,,,nan,,,nan,nan
+637,,,,,,,nan,,,nan,nan
+638,,,,,,,nan,,,nan,nan
+639,,,,,,,nan,,,nan,nan
+640,,,,,,,nan,,,nan,nan
+641,,,,,,,nan,,,nan,nan
+642,,,,,,,nan,,,nan,nan
+643,,,,,,,nan,,,nan,nan
+644,,,,,,,nan,,,nan,nan
+645,,,,,,,nan,,,nan,nan
+646,,,,,,,nan,,,nan,nan
+647,,,,,,,nan,,,nan,nan
+648,,,,,,,nan,,,nan,nan
+649,,,,,,,nan,,,nan,nan
+650,,,,,,,nan,,,nan,nan
+651,,,,,,,nan,,,nan,nan
+652,,,,,,,nan,,,nan,nan
+653,,,,,,,nan,,,nan,nan
+654,,,,,,,nan,,,nan,nan
+655,,,,,,,nan,,,nan,nan
+656,,,,,,,nan,,,nan,nan
+657,,,,,,,nan,,,nan,nan
+658,,,,,,,nan,,,nan,nan
+659,,,,,,,nan,,,nan,nan
+660,,,,,,,nan,,,nan,nan
+661,,,,,,,nan,,,nan,nan
+662,,,,,,,nan,,,nan,nan
+663,,,,,,,nan,,,nan,nan
+664,,,,,,,nan,,,nan,nan
+665,,,,,,,nan,,,nan,nan
+666,,,,,,,nan,,,nan,nan
+667,,,,,,,nan,,,nan,nan
+668,,,,,,,nan,,,nan,nan
+669,,,,,,,nan,,,nan,nan
+670,,,,,,,nan,,,nan,nan
+671,,,,,,,nan,,,nan,nan
+672,,,,,,,nan,,,nan,nan
+673,,,,,,,nan,,,nan,nan
+674,,,,,,,nan,,,nan,nan
+675,,,,,,,nan,,,nan,nan
+676,,,,,,,nan,,,nan,nan
+677,,,,,,,nan,,,nan,nan
+678,,,,,,,nan,,,nan,nan
+679,,,,,,,nan,,,nan,nan
+680,,,,,,,nan,,,nan,nan
+681,,,,,,,nan,,,nan,nan
+682,,,,,,,nan,,,nan,nan
+683,,,,,,,nan,,,nan,nan
+684,,,,,,,nan,,,nan,nan
+685,,,,,,,nan,,,nan,nan
+686,,,,,,,nan,,,nan,nan
+687,,,,,,,nan,,,nan,nan
+688,,,,,,,nan,,,nan,nan
+689,,,,,,,nan,,,nan,nan
+690,,,,,,,nan,,,nan,nan
+691,,,,,,,nan,,,nan,nan
+692,,,,,,,nan,,,nan,nan
+693,,,,,,,nan,,,nan,nan
+694,,,,,,,nan,,,nan,nan
+695,,,,,,,nan,,,nan,nan
+696,,,,,,,nan,,,nan,nan
+697,,,,,,,nan,,,nan,nan
+698,,,,,,,nan,,,nan,nan
+699,,,,,,,nan,,,nan,nan
+700,,,,,,,nan,,,nan,nan
+701,,,,,,,nan,,,nan,nan
+702,,,,,,,nan,,,nan,nan
+703,,,,,,,nan,,,nan,nan
+704,,,,,,,nan,,,nan,nan
+705,,,,,,,nan,,,nan,nan
+706,,,,,,,nan,,,nan,nan
+707,,,,,,,nan,,,nan,nan
+708,,,,,,,nan,,,nan,nan
+709,,,,,,,nan,,,nan,nan
+710,,,,,,,nan,,,nan,nan
+711,,,,,,,nan,,,nan,nan
+712,,,,,,,nan,,,nan,nan
+713,,,,,,,nan,,,nan,nan
+714,,,,,,,nan,,,nan,nan
+715,,,,,,,nan,,,nan,nan
+716,,,,,,,nan,,,nan,nan
+717,,,,,,,nan,,,nan,nan
+718,,,,,,,nan,,,nan,nan
+719,,,,,,,nan,,,nan,nan
+720,,,,,,,nan,,,nan,nan
+721,,,,,,,nan,,,nan,nan
+722,,,,,,,nan,,,nan,nan
+723,,,,,,,nan,,,nan,nan
+724,,,,,,,nan,,,nan,nan
+725,,,,,,,nan,,,nan,nan
+726,,,,,,,nan,,,nan,nan
+727,,,,,,,nan,,,nan,nan
+728,,,,,,,nan,,,nan,nan
+729,,,,,,,nan,,,nan,nan
+730,,,,,,,nan,,,nan,nan
+731,,,,,,,nan,,,nan,nan
+732,,,,,,,nan,,,nan,nan
+733,,,,,,,nan,,,nan,nan
+734,,,,,,,nan,,,nan,nan
+735,,,,,,,nan,,,nan,nan
+736,,,,,,,nan,,,nan,nan
+737,,,,,,,nan,,,nan,nan
+738,,,,,,,nan,,,nan,nan
+739,,,,,,,nan,,,nan,nan
+740,,,,,,,nan,,,nan,nan
+741,,,,,,,nan,,,nan,nan
+742,,,,,,,nan,,,nan,nan
+743,,,,,,,nan,,,nan,nan
+744,,,,,,,nan,,,nan,nan
+745,,,,,,,nan,,,nan,nan
+746,,,,,,,nan,,,nan,nan
+747,,,,,,,nan,,,nan,nan
+748,,,,,,,nan,,,nan,nan
+749,,,,,,,nan,,,nan,nan
+750,,,,,,,nan,,,nan,nan
+751,,,,,,,nan,,,nan,nan
+752,,,,,,,nan,,,nan,nan
+753,,,,,,,nan,,,nan,nan
+754,,,,,,,nan,,,nan,nan
+755,,,,,,,nan,,,nan,nan
+756,,,,,,,nan,,,nan,nan
+757,,,,,,,nan,,,nan,nan
+758,,,,,,,nan,,,nan,nan
+759,,,,,,,nan,,,nan,nan
+760,,,,,,,nan,,,nan,nan
+761,,,,,,,nan,,,nan,nan
+762,,,,,,,nan,,,nan,nan
+763,,,,,,,nan,,,nan,nan
+764,,,,,,,nan,,,nan,nan
+765,,,,,,,nan,,,nan,nan
+766,,,,,,,nan,,,nan,nan
+767,,,,,,,nan,,,nan,nan
+768,,,,,,,nan,,,nan,nan
+769,,,,,,,nan,,,nan,nan
+770,,,,,,,nan,,,nan,nan
+771,,,,,,,nan,,,nan,nan
+772,,,,,,,nan,,,nan,nan
+773,,,,,,,nan,,,nan,nan
+774,,,,,,,nan,,,nan,nan
+775,,,,,,,nan,,,nan,nan
+776,,,,,,,nan,,,nan,nan
+777,,,,,,,nan,,,nan,nan
+778,,,,,,,nan,,,nan,nan
+779,,,,,,,nan,,,nan,nan
+780,,,,,,,nan,,,nan,nan
+781,,,,,,,nan,,,nan,nan
+782,,,,,,,nan,,,nan,nan
+783,,,,,,,nan,,,nan,nan
+784,,,,,,,nan,,,nan,nan
+785,,,,,,,nan,,,nan,nan
+786,,,,,,,nan,,,nan,nan
+787,,,,,,,nan,,,nan,nan
+788,,,,,,,nan,,,nan,nan
+789,,,,,,,nan,,,nan,nan
+790,,,,,,,nan,,,nan,nan
+791,,,,,,,nan,,,nan,nan
+792,,,,,,,nan,,,nan,nan
+793,,,,,,,nan,,,nan,nan
+794,,,,,,,nan,,,nan,nan
+795,,,,,,,nan,,,nan,nan
+796,,,,,,,nan,,,nan,nan
+797,,,,,,,nan,,,nan,nan
+798,,,,,,,nan,,,nan,nan
+799,,,,,,,nan,,,nan,nan
+800,,,,,,,nan,,,nan,nan
+801,,,,,,,nan,,,nan,nan
+802,,,,,,,nan,,,nan,nan
+803,,,,,,,nan,,,nan,nan
+804,,,,,,,nan,,,nan,nan
+805,,,,,,,nan,,,nan,nan
+806,,,,,,,nan,,,nan,nan
+807,,,,,,,nan,,,nan,nan
+808,,,,,,,nan,,,nan,nan
+809,,,,,,,nan,,,nan,nan
+810,,,,,,,nan,,,nan,nan
+811,,,,,,,nan,,,nan,nan
+812,,,,,,,nan,,,nan,nan
+813,,,,,,,nan,,,nan,nan
+814,,,,,,,nan,,,nan,nan
+815,,,,,,,nan,,,nan,nan
+816,,,,,,,nan,,,nan,nan
+817,,,,,,,nan,,,nan,nan
+818,,,,,,,nan,,,nan,nan
+819,,,,,,,nan,,,nan,nan
+820,,,,,,,nan,,,nan,nan
+821,,,,,,,nan,,,nan,nan
+822,,,,,,,nan,,,nan,nan
+823,,,,,,,nan,,,nan,nan
+824,,,,,,,nan,,,nan,nan
+825,,,,,,,nan,,,nan,nan
+826,,,,,,,nan,,,nan,nan
+827,,,,,,,nan,,,nan,nan
+828,,,,,,,nan,,,nan,nan
+829,,,,,,,nan,,,nan,nan
+830,,,,,,,nan,,,nan,nan
+831,,,,,,,nan,,,nan,nan
+832,,,,,,,nan,,,nan,nan
+833,,,,,,,nan,,,nan,nan
+834,,,,,,,nan,,,nan,nan
+835,,,,,,,nan,,,nan,nan
+836,,,,,,,nan,,,nan,nan
+837,,,,,,,nan,,,nan,nan
+838,,,,,,,nan,,,nan,nan
+839,,,,,,,nan,,,nan,nan
+840,,,,,,,nan,,,nan,nan
+841,,,,,,,nan,,,nan,nan
+842,,,,,,,nan,,,nan,nan
+843,,,,,,,nan,,,nan,nan
+844,,,,,,,nan,,,nan,nan
+845,,,,,,,nan,,,nan,nan
+846,,,,,,,nan,,,nan,nan
+847,,,,,,,nan,,,nan,nan
+848,,,,,,,nan,,,nan,nan
+849,,,,,,,nan,,,nan,nan
+850,,,,,,,nan,,,nan,nan
+851,,,,,,,nan,,,nan,nan
+852,,,,,,,nan,,,nan,nan
+853,,,,,,,nan,,,nan,nan
+854,,,,,,,nan,,,nan,nan
+855,,,,,,,nan,,,nan,nan
+856,,,,,,,nan,,,nan,nan
+857,,,,,,,nan,,,nan,nan
+858,,,,,,,nan,,,nan,nan
+859,,,,,,,nan,,,nan,nan
+860,,,,,,,nan,,,nan,nan
+861,,,,,,,nan,,,nan,nan
+862,,,,,,,nan,,,nan,nan
+863,,,,,,,nan,,,nan,nan
+864,,,,,,,nan,,,nan,nan
+865,,,,,,,nan,,,nan,nan
+866,,,,,,,nan,,,nan,nan
+867,,,,,,,nan,,,nan,nan
+868,,,,,,,nan,,,nan,nan
+869,,,,,,,nan,,,nan,nan
+870,,,,,,,nan,,,nan,nan
+871,,,,,,,nan,,,nan,nan
+872,,,,,,,nan,,,nan,nan
+873,,,,,,,nan,,,nan,nan
+874,,,,,,,nan,,,nan,nan
+875,,,,,,,nan,,,nan,nan
+876,,,,,,,nan,,,nan,nan
+877,,,,,,,nan,,,nan,nan
+878,,,,,,,nan,,,nan,nan
+879,,,,,,,nan,,,nan,nan
+880,,,,,,,nan,,,nan,nan
+881,,,,,,,nan,,,nan,nan
+882,,,,,,,nan,,,nan,nan
+883,,,,,,,nan,,,nan,nan
+884,,,,,,,nan,,,nan,nan
+885,,,,,,,nan,,,nan,nan
+886,,,,,,,nan,,,nan,nan
+887,,,,,,,nan,,,nan,nan
+888,,,,,,,nan,,,nan,nan
+889,,,,,,,nan,,,nan,nan
+890,,,,,,,nan,,,nan,nan
+891,,,,,,,nan,,,nan,nan
+892,,,,,,,nan,,,nan,nan
+893,,,,,,,nan,,,nan,nan
+894,,,,,,,nan,,,nan,nan
+895,,,,,,,nan,,,nan,nan
+896,,,,,,,nan,,,nan,nan
+897,,,,,,,nan,,,nan,nan
+898,,,,,,,nan,,,nan,nan
+899,,,,,,,nan,,,nan,nan
+900,,,,,,,nan,,,nan,nan
+901,,,,,,,nan,,,nan,nan
+902,,,,,,,nan,,,nan,nan
+903,,,,,,,nan,,,nan,nan
+904,,,,,,,nan,,,nan,nan
+905,,,,,,,nan,,,nan,nan
+906,,,,,,,nan,,,nan,nan
+907,,,,,,,nan,,,nan,nan
+908,,,,,,,nan,,,nan,nan
+909,,,,,,,nan,,,nan,nan
+910,,,,,,,nan,,,nan,nan
+911,,,,,,,nan,,,nan,nan
+912,,,,,,,nan,,,nan,nan
+913,,,,,,,nan,,,nan,nan
+914,,,,,,,nan,,,nan,nan
+915,,,,,,,nan,,,nan,nan
+916,,,,,,,nan,,,nan,nan
+917,,,,,,,nan,,,nan,nan
+918,,,,,,,nan,,,nan,nan
+919,,,,,,,nan,,,nan,nan
+920,,,,,,,nan,,,nan,nan
+921,,,,,,,nan,,,nan,nan
+922,,,,,,,nan,,,nan,nan
+923,,,,,,,nan,,,nan,nan
+924,,,,,,,nan,,,nan,nan
+925,,,,,,,nan,,,nan,nan
+926,,,,,,,nan,,,nan,nan
+927,,,,,,,nan,,,nan,nan
+928,,,,,,,nan,,,nan,nan
+929,,,,,,,nan,,,nan,nan
+930,,,,,,,nan,,,nan,nan
+931,,,,,,,nan,,,nan,nan
+932,,,,,,,nan,,,nan,nan
+933,,,,,,,nan,,,nan,nan
+934,,,,,,,nan,,,nan,nan
+935,,,,,,,nan,,,nan,nan
+936,,,,,,,nan,,,nan,nan
+937,,,,,,,nan,,,nan,nan
+938,,,,,,,nan,,,nan,nan
+939,,,,,,,nan,,,nan,nan
+940,,,,,,,nan,,,nan,nan
+941,,,,,,,nan,,,nan,nan
+942,,,,,,,nan,,,nan,nan
+943,,,,,,,nan,,,nan,nan
+944,,,,,,,nan,,,nan,nan
+945,,,,,,,nan,,,nan,nan
+946,,,,,,,nan,,,nan,nan
+947,,,,,,,nan,,,nan,nan
+948,,,,,,,nan,,,nan,nan
+949,,,,,,,nan,,,nan,nan
+950,,,,,,,nan,,,nan,nan
+951,,,,,,,nan,,,nan,nan
+952,,,,,,,nan,,,nan,nan
+953,,,,,,,nan,,,nan,nan
+954,,,,,,,nan,,,nan,nan
+955,,,,,,,nan,,,nan,nan
+956,,,,,,,nan,,,nan,nan
+957,,,,,,,nan,,,nan,nan
+958,,,,,,,nan,,,nan,nan
+959,,,,,,,nan,,,nan,nan
+960,,,,,,,nan,,,nan,nan
+961,,,,,,,nan,,,nan,nan
+962,,,,,,,nan,,,nan,nan
+963,,,,,,,nan,,,nan,nan
+964,,,,,,,nan,,,nan,nan
+965,,,,,,,nan,,,nan,nan
+966,,,,,,,nan,,,nan,nan
+967,,,,,,,nan,,,nan,nan
+968,,,,,,,nan,,,nan,nan
+969,,,,,,,nan,,,nan,nan
+970,,,,,,,nan,,,nan,nan
+971,,,,,,,nan,,,nan,nan
+972,,,,,,,nan,,,nan,nan
+973,,,,,,,nan,,,nan,nan
+974,,,,,,,nan,,,nan,nan
+975,,,,,,,nan,,,nan,nan
+976,,,,,,,nan,,,nan,nan
+977,,,,,,,nan,,,nan,nan
+978,,,,,,,nan,,,nan,nan
+979,,,,,,,nan,,,nan,nan
+980,,,,,,,nan,,,nan,nan
+981,,,,,,,nan,,,nan,nan
+982,,,,,,,nan,,,nan,nan
+983,,,,,,,nan,,,nan,nan
+984,,,,,,,nan,,,nan,nan
+985,,,,,,,nan,,,nan,nan
+986,,,,,,,nan,,,nan,nan
+987,,,,,,,nan,,,nan,nan
+988,,,,,,,nan,,,nan,nan
+989,,,,,,,nan,,,nan,nan
+990,,,,,,,nan,,,nan,nan
+991,,,,,,,nan,,,nan,nan
+992,,,,,,,nan,,,nan,nan
+993,,,,,,,nan,,,nan,nan
+994,,,,,,,nan,,,nan,nan
+995,,,,,,,nan,,,nan,nan
+996,,,,,,,nan,,,nan,nan
+997,,,,,,,nan,,,nan,nan

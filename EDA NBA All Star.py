@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
 df = pd.read_csv('NBA_All_Star_Game_Data_cleaned')
@@ -23,18 +24,20 @@ for i in df_cat[['Pos', 'HT', 'WT']].columns:
     print("Graph for %s: total =%d" % (i, len(cat_num)))
     chart = sns.barplot(x=df_cat[i].value_counts().index, y=cat_num)
     chart.set_xticklabels(chart.get_xticklabels(), rotation=90)
-    # plt.show()
+    plt.show()
 
-# print(pd.pivot_table(df,index='Pos',values='WT'))
 
-# print(pd.pivot_table(df,index=['Pos','Nationality'],values='WT',aggfunc='count'))
+print(pd.pivot_table(df,index='Pos',values='WT'))
 
-# print(pd.pivot_table(df,index=['Pos','Nationality','Year Of NBA Draft Status'],values='HT',aggfunc='count').sort_values('HT',ascending=False))
+print(pd.pivot_table(df,index=['Pos','Nationality'],values='WT',aggfunc='count'))
+
+print(pd.pivot_table(df,index=['Pos','Nationality','Year Of NBA Draft Status'],values='HT',aggfunc='count').sort_values('HT',ascending=False))
 print(df.columns)
 df_cat2 = df[['Pos', 'WT', 'Selection Type',
-              'NBA Draft Status', 'Nationality', 'All_Star',
+             'NBA Draft Status', 'Nationality', 'All_Star',
               'Year Of NBA Draft Status'
               ]]
 for i in df_cat2.columns:
     print('')
     print(pd.pivot_table(df_cat, index=i, values='HT', aggfunc='count').sort_values('HT', ascending=False))
+df.to_csv('eda_data.csv')

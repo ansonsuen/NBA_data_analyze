@@ -29,5 +29,8 @@ df=df.drop(columns=['Unnamed: 9', 'Unnamed: 10',
        'Unnamed: 19', 'Unnamed: 20', 'Unnamed: 21', 'Unnamed: 22',
        'Unnamed: 23', 'Unnamed: 24'])
 print(df['All_Star'])
-
+df=df.dropna()
+print(df)
 df.to_csv('NBA_All_Star_Game_Data_cleaned')
+
+

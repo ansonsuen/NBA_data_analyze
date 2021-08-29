@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import re
 pd.set_option('display.max_columns', None)
-pd.set_option('display.max_rows', None)
+
 df=pd.read_csv('NBA All Star Games.csv')
 #selection_type split  to what reigion all star
 df['Selection Type']=df['Selection Type'].astype('str')
@@ -28,9 +28,7 @@ df=df.drop(columns=['Unnamed: 9', 'Unnamed: 10',
        'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18',
        'Unnamed: 19', 'Unnamed: 20', 'Unnamed: 21', 'Unnamed: 22',
        'Unnamed: 23', 'Unnamed: 24'])
-print(df['All_Star'])
-df=df.dropna()
-print(df)
+df=df.dropna(axis='index',how='any')
 df.to_csv('NBA_All_Star_Game_Data_cleaned')
 
 

@@ -41,8 +41,11 @@ Three models:
 Multiple Linear Regression – Baseline for the model
 Lasso Regression – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
 Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
+# Model performance
+The Linear Regression model far outperformed the other approaches on the test and validation sets.
 
-
-
+* Random Forest : MAE = 0.7156436781609482
+* Linear Regression: MAE = 0.42770713696508317
+* Ridge Regression: MAE = 2.9394508968814295
 
 

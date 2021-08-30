@@ -47,5 +47,7 @@ The Linear Regression model far outperformed the other approaches on the test an
 * Random Forest : MAE = 0.7156436781609482
 * Linear Regression: MAE = 0.42770713696508317
 * Ridge Regression: MAE = 2.9394508968814295
+# Productionization
+In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an HT.
 
 

@@ -28,6 +28,7 @@
 * Drop all na columns and rows, which does not exsit.
 # EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+![alt text](https://user-images.githubusercontent.com/63040009/131342900-edf3b098-446f-427f-b9c4-b760cedead97.png)
 
 
 

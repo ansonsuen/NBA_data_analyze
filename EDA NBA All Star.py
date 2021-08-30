@@ -1,21 +1,19 @@
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 import seaborn as sns
-
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
 df = pd.read_csv('NBA_All_Star_Game_Data_cleaned')
 df['Team'] = df['Team'].astype('str')
 df.boxplot(column=['Year Of NBA Draft Status'])
-
 cor = df[['HT', 'WT']].corr()
 df.HT.hist()
 df.WT.hist()
 sns.heatmap(df[['HT','WT','Year']].corr(),cmap='YlGnBu')
-#df.boxplot(column=['HT','WT'])
-#plt.show()
-df = df.drop(columns=['Unnamed: 0'])
+df.boxplot(column=['HT'])
+plt.show()
+
 
 df_cat = df[
     ['Pos', 'WT', 'HT', 'Selection Type', 'NBA Draft Status', 'Nationality', 'All_Star', 'Year Of NBA Draft Status']]
@@ -27,11 +25,12 @@ for i in df_cat[['Pos', 'HT', 'WT']].columns:
     plt.show()
 
 
-print(pd.pivot_table(df,index='Pos',values='WT'))
+print(pd.pivot_table(df,index='Pos',values='HT'))
 
-print(pd.pivot_table(df,index=['Pos','Nationality'],values='WT',aggfunc='count'))
-
-print(pd.pivot_table(df,index=['Pos','Nationality','Year Of NBA Draft Status'],values='HT',aggfunc='count').sort_values('HT',ascending=False))
+print(pd.pivot_table(df,index=['Pos','Nationality'],values='HT',aggfunc='count'))
+import dataframe_image as dfi
+df1=pd.pivot_table(df,index=['Pos','Nationality','Year Of NBA Draft Status'],values='HT',aggfunc='count').sort_values('HT',ascending=False)
+dfi.export(df1.head(10),'dataframe.png')
 print(df.columns)
 df_cat2 = df[['Pos', 'WT', 'Selection Type',
              'NBA Draft Status', 'Nationality', 'All_Star',

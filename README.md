@@ -21,11 +21,14 @@
 * Country
 -Lately NBA all star's has added in the columns for all better overview.
 # Data Cleaning 
-* selection_type split  to what reigion all star
-* split c to f to have a new columns, All_Star
+* Selection_type split  to what reigion all star
+* Split c to f to have a new columns, All_Star
 * HT change to int with replace
-* split R in year_nba _draft to have Year Of NBA Draft Status
-* drop all na columns and rows, which does not exsit.
+* Split R in year_nba _draft to have Year Of NBA Draft Status
+* Drop all na columns and rows, which does not exsit.
+# EDA
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+
 
 
 

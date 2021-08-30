@@ -10,5 +10,15 @@
 <br >**For Web Framework Requirements**: pip install -r requirements.txt<br/>
 <br >**Scraper Article**: 'https://www.nba.com/players'<br/>
 <br >**Flask Productionization**: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2<br />
+# Web Scraping
+* Player
+* Team'
+* Numbers
+* Position
+* Height
+* Weight
+* Last_Attedent
+* Country
+-Lately NBA all star's has added in the columns for all better overview.
 
 
